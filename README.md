@@ -1,4 +1,6 @@
-# <h1>Henry Boateng</h1>
+                                              # <h1>Henry Boateng</h1>
+
+---
 
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ### Hi there 👋 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
@@ -19,7 +21,7 @@ Developing, debugging, and experiencing a project come to life is the principle 
 
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
-##` Languages and Tools
+                                             ##`Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,7 +35,7 @@ Developing, debugging, and experiencing a project come to life is the principle 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
 
-[![Henry's GutHub stats](https://github-readme-stats.vercel.app/api?username=HenryBoateng)](https://github.com/anuraghazra/github-readme-stats)
+        [![Henry's GutHub stats](https://github-readme-stats.vercel.app/api?username=HenryBoateng)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
