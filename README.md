@@ -6,7 +6,7 @@
 
 <h2>Hi there 👋</h2>
 
-                    ##`Software Engineer (BSc computer science/ MSc Software Engineer)`##
+                         ##`Software Engineer (BSc computer science/ MSc Software Engineer)`##
 
 Developing, debugging, and experiencing a project come to life is the principle of what drives my ambition as a software engineer. Always being agile in learning new technologies is a very important aspect in the pursuit of getting better and achieving my goals within the industry.
 
