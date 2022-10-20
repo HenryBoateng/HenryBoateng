@@ -1,3 +1,5 @@
+# <h1>Henry Boateng</h1>
+
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ### Hi there 👋 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 ##`Software Engineer (BSc computer science/ MSc Software Engineer)`##
@@ -15,7 +17,9 @@ Developing, debugging, and experiencing a project come to life is the principle 
 
 ---
 
-✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ### Languages and Tools ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+
+##` Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -33,16 +37,14 @@ Developing, debugging, and experiencing a project come to life is the principle 
 
 #
 
-✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
 
 <details>
-<summary><h3> ⚡Henry's Coding Journey</h3></summary>
+<summary><h3> ⚡Henry's Coding Journey </h3></summary>
 A keen learner, seeking to implement my technical software engineering skills and strong interpersonal skills to help a company grow and fulfil their short-term and long-term goals - whilst improving, learning and broadening my tech knowledge. I am specifically interested in Full Stack Development, SQL database management and technologies such as React.
 
 After graduating with a MSc Software Engineering from De Montfort University, I have gained key skills within the software development sector. As we are going through the Fourth Industrial Revolution and the industry continuously changes, I am eager to develop my current technical skills and apply them to help a company grow.
 
 As technology continues to grow, I see myself excited for the future of the tech industry, in particular when looking at Robotics, the Internet of Things, data analytics being the main technologies to which is taking over. With that said, I am very excited with the metaverse as even now in its early stages, it is something I enjoy so I am looking forward to what such technologies hold for the future.
-
-<details>
 
 [linkedin]: https://www.linkedin.com/in/henry-boateng-4b29aa1a9/
