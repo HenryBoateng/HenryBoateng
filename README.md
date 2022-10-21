@@ -39,7 +39,7 @@ Developing, debugging, and experiencing a project come to life is the principle 
 
 ---
 
-[![Henry's GutHub stats](https://github-readme-stats.vercel.app/api?username=HenryBoateng&show_icons=true&theme=merko)]
+[![Henry's GutHub stats](https://github-readme-stats.vercel.app/api?username=HenryBoateng&show_icons=true&theme=cobalt)]
 
 #
 
