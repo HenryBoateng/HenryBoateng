@@ -6,7 +6,7 @@
 
 <h2>Hi there 👋</h2>
 
-##`Software Engineer (BSc computer science/ MSc Software Engineer)`##
+`Software Engineer (BSc computer science/ MSc Software Engineer)`
 
 Developing, debugging, and experiencing a project come to life is the principle of what drives my ambition as a software engineer. Always being agile in learning new technologies is a very important aspect in the pursuit of getting better and achieving my goals within the industry.
 
@@ -52,6 +52,8 @@ A keen learner, seeking to implement my technical software engineering skills an
 After graduating with a MSc Software Engineering from De Montfort University, I have gained key skills within the software development sector. As we are going through the Fourth Industrial Revolution and the industry continuously changes, I am eager to develop my current technical skills and apply them to help a company grow.
 
 As technology continues to grow, I see myself excited for the future of the tech industry, in particular when looking at Robotics, the Internet of Things, data analytics being the main technologies to which is taking over. With that said, I am very excited with the metaverse as even now in its early stages, it is something I enjoy so I am looking forward to what such technologies hold for the future.
+
+</details>
 
 [linkedin]: https://www.linkedin.com/in/henry-boateng-4b29aa1a9/
 
